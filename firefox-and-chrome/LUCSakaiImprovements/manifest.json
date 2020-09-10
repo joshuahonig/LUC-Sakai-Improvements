@@ -6,7 +6,11 @@
     "author": "Josh Honig (jhonig@luc.edu)",
 
     "description": "Makes a few UX improvements to Loyola University's Sakai",
-    
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
     "content_scripts": [
         {
             "matches": ["*://sakai.luc.edu/*"],
