@@ -9,7 +9,7 @@ Want to add a feature yourself? Feel free to submit a pull request!
 ## How do I install this?
 [Click here](https://TODO) to install for Chrome
 
-[Click here](https://TODO) to install for Firefox
+[Click here](https://addons.mozilla.org/en-US/firefox/addon/luc-sakai-improvements/) to install for Firefox
 ## This extension is breaking Sakai. How do I disable it?
 In Chrome, navigate to `chrome://extensions`, locate "LUCSakaiImprovements", and toggle the switch to off.
 
