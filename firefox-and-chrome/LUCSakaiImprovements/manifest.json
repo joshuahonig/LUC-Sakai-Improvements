@@ -1,0 +1,16 @@
+{
+
+    "manifest_version": 2,
+    "name": "LUCSakaiImprovements",
+    "version": "0.1",
+
+    "description": "Makes a few UX improvements to Loyola University's Sakai",
+    
+    "content_scripts": [
+        {
+            "matches": ["*://sakai.luc.edu/*"],
+            "js": ["jquery.js", "randomColor.js", "colorCode.js", "sidebarSort.js"]
+        }
+    ]
+
+}
